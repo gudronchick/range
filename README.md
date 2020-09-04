@@ -1,2 +1,2 @@
 # range
-Range with double slider
+Range with double sliders
